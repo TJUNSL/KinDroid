@@ -1,4 +1,4 @@
-# Never Stop Learning: A Self-Adaptive Incremental Learning to Combat Concept Drift of Malware Families
+# KinDroid: A Self-Adaptive Incremental Learning to Combat Concept Drift of Android Malware Families
 
 ## Introduction
 
